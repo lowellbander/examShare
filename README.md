@@ -13,4 +13,3 @@ exam sharing web app
 - popularity ratings for exams
 - pretty as fuck
 - public/private annotations
-- 
