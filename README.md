@@ -13,3 +13,4 @@ exam sharing web app
 - popularity ratings for exams
 - pretty as fuck
 - public/private annotations
+- requests for exams! then award points for people that satisfy the request?
